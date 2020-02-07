@@ -249,7 +249,7 @@ void InitImages() {
 
   carregar();
   Tela_Selecionar(2);
-  ModoConstrucao_Start();
+  // ModoConstrucao_Start();
 
 //  printf("%d\n",quantidade);
 
